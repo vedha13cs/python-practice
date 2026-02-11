@@ -1,7 +1,5 @@
-
-num = int(input("Enter a number: "))
-
-if num % 7 == 0:
-    print(num, "is a multiple of 7")
+com=int(input("Enter the Number:"))
+if(com %7 ==0 ):
+    print("Given number",com,"is multiple of 7")
 else:
-    print(num, "is not a multiple of 7")
+    print("The given number",com,"is not a multiple of 7")
