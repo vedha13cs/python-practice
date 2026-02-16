@@ -85,6 +85,17 @@ Hi, I'm Vedhavathi Y A
 
 📌 Practiced function creation and recursive programs.
 ---
+## 📅 Day 7 – File Handling in Python
+
+### Topics Learned:
+- File I/O Basics
+- Open, Read, Write, Append
+- with Open Syntax
+- File Delete using os module
+
+📌 Practiced reading and writing data using files.
+---
+
 ## 🎯 Goal
 To master Python fundamentals through daily coding practice and maintain GitHub consistency.
 
